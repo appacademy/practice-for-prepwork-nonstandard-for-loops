@@ -9,6 +9,8 @@ result array should be in the order they appear in the original input.
 
 Download the starter [here][starter].
 
+Implement the problems in the __problems.js__ file.
+
 Tests have been written for you already to test if your answers behave as
 intended. To run the tests, simply run:
 
